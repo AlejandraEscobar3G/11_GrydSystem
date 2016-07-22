@@ -1,0 +1,107 @@
+body{
+	background-color: 	#F8F8FF;
+}
+
+li:hover{
+	background: #C0C0C0;
+	border-radius:50px;
+}
+.header{
+	background-color: grey;
+	border-bottom: 2px solid black;
+}
+
+.centro{
+	display: block;
+	margin: auto;
+}
+
+.logo{
+	height: 70px;
+	width: 70px;
+}
+
+li{
+	list-style: none;
+	color: white;
+	margin-top: 29px;
+	display: inline-block;
+	padding: 0 1%;
+}
+
+.espacio{
+	margin-top: 10px;
+}
+
+.latest_ep{
+	background-color: #D3D3D3;
+	border-bottom: 2px solid silver;
+
+}
+
+.p{
+	margin-top: 16px;
+}
+
+p{
+	color: blue;
+	font-weight: bold;
+}
+
+.img_latest{
+	height: 210px;
+	width: 210px;
+}
+
+.marco_img{
+	padding: 3px;
+	background-color: white;
+	border: 1.4px solid silver;
+}
+
+.txt_center{
+	width: 50%;
+}
+
+hr{
+	border: 1px solid silver;
+
+}
+
+.img_list{
+	height: 115px;
+	width: 115px
+}
+
+.aside{
+	margin-top: 45px;
+}
+
+h3{
+	color: darkslategrey;
+}
+
+.podcast_img{
+	width: 12px;
+	height: 12px;
+}
+
+a{
+	color: blue;
+	text-decoration: none;
+}
+
+.footer{
+	color: white;
+	font-weight: normal;
+}
+
+#lista{
+	font-size: small;
+}
+
+#derechos{
+	font-size: x-small;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
